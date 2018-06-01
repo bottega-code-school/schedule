@@ -4,7 +4,8 @@
     grid-template-rows: 32px 1fr;
 
     align-items: center;
-
+    z-index: 50;
+    
     &__title-check {
         grid-row: 1/2;
         display: flex;
